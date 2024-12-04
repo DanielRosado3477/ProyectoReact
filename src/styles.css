@@ -1,0 +1,17 @@
+body{
+    background-color:aliceblue;
+    height: 100vh;
+}
+.navbar{
+    background-color:rgba(159, 155, 155, 0.066);
+    width: 100%;
+}
+.navbar a{
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(94, 7, 7);
+}
+
+button{
+    background-color: none;
+}
